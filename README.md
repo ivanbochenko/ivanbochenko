@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ivanbochenko
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 To reach me bochenkoivan@gmail.com
 
 <!---
